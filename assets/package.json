@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@zoomus/websdk": "^1.7.8",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "moment": "^2.24.0",
     "npm": "^6.14.5",
