@@ -14,7 +14,7 @@
   "devDependencies": {
     "@mdi/font": "^4.2.95",
     "laravel-mix": "^4.1.2",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "resolve-url-loader": "^3.1.0",
     "sass": "^1.22.10",
     "sass-loader": "^7.3.1",
